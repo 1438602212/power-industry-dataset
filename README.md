@@ -226,5 +226,8 @@
 <tr><td>219</td><td>电力场景输电线路故障异常检测数据集VOC+YOLO格式1022张9类别</td><td><a href="https://mbd.pub/o/bread/YZaVm5xuaQ==">下载</a></td></tr>
 <tr><td>220</td><td>无人机视角航拍铁路输电线绝缘子和鸟巢检测数据集VOC+YOLO格式376张2类别</td><td><a href="https://mbd.pub/o/bread/YZaVm5pqbA==">下载</a></td></tr>
 <tr><td>221</td><td>电力场景变电站及作业现场电气设备与人员安全防护检测数据集VOC+YOLO格式2817张14类别</td><td><a href="https://mbd.pub/o/bread/YZaWkp9qZA==">下载</a></td></tr>
+<tr><td>222</td><td>电力场景电力设备电线杆损坏检测数据集VOC+YOLO格式656张2类别</td><td><a href="https://mbd.pub/o/bread/YZaWlZtuaA==">下载</a></td></tr>
+<tr><td>223</td><td>电力场景电网施工安全防护检测数据集VOC+YOLO格式911张6类别</td><td><a href="https://mbd.pub/o/bread/YZaWlptpaw==">下载</a></td></tr>
+<tr><td>224</td><td>电力场景高空作业人员高空施工人员检测数据集VOC+YOLO格式1742张2类别</td><td><a href="https://mbd.pub/o/bread/YZaWlpZrbQ==">下载</a></td></tr>
 </tbody>
 </table>
